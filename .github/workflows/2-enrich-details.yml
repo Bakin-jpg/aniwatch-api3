@@ -9,16 +9,23 @@ jobs:
   enrich:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - uses: actions/setup-python@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - run: pip install -r requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Run detail enrichment script
         timeout-minutes: 350
         run: python 2_enrich_details.py
+      
       - name: Commit and push details
         run: |
           git config --global user.name 'github-actions[bot]'
