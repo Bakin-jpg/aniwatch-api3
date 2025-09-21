@@ -1,8 +1,8 @@
-name: 3. Update Latest Episodes
+name: 3. Update Latest Episodes (Fast AJAX Method)
 
 on:
   schedule:
-    - cron: '0 * * * *' # Jalankan setiap 1 jam
+    - cron: '*/30 * * * *' # Jalankan setiap 30 menit
   workflow_dispatch:
 
 jobs:
@@ -11,19 +11,19 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - name: Install Google Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
+
       - name: Install dependencies
         run: pip install -r requirements.txt
+
       - name: Run latest scraper script
-        timeout-minutes: 20
+        timeout-minutes: 5
         run: python 3_update_latest.py
+        
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
