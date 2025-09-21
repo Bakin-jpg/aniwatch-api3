@@ -1,25 +1,30 @@
-name: 3. Update Latest Episodes (Fast AJAX Method)
+name: 1. Build Full Anime Catalog
 
 on:
-schedule:
-- cron: '*/30 * * * *' # Jalankan setiap 30 menit
-workflow_dispatch:
+  workflow_dispatch: # HANYA JALAN MANUAL
 
 jobs:
-scrape:
-runs-on: ubuntu-latest
-steps:
-- uses: actions/checkout@v3
-- uses: actions/setup-python@v4
-with:
-python-version: '3.10'
-- run: pip install -r requirements.txt
-- name: Run latest scraper script
-timeout-minutes: 5
-run: python 3_update_latest.py
-- name: Commit and push changes
-run: |
-git config --global user.name 'github-actions[bot]'
-git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-git add anime_homepage.json
-git diff --staged --quiet || (git commit -m "Update homepage data" && git push)
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run catalog scraper
+        timeout-minutes: 45
+        run: python 1_build_catalog.py
+
+      - name: Commit and push catalog
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add anime_catalog.json
+          git diff --staged --quiet || (git commit -m "Build/Update full anime catalog" && git push)
