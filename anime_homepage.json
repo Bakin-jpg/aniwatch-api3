@@ -52,6 +52,12 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "19806",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33d4163485c2892aad7b42ddcf4ef7d8.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/uuxnMv7xFkoH?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19777",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80041e1c6d7346e561fd39d10507ddf9.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/U82crjiBIltt?k=1&autoPlay=1&oa=0&asi=1"
@@ -66,7 +72,7 @@
       "title": "",
       "episode_id": "19779",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5e326f8234a54e407d7e3c86f9d68e2.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/awOHLKlxg1st?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ESQohvCezSdb?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -90,7 +96,7 @@
       "title": "",
       "episode_id": "19934",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6f447855dee0d14f96fd92981af9c51.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/XZdpEWzhaioA?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kMnwAapAXVAG?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -114,13 +120,7 @@
       "title": "",
       "episode_id": "19742",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/577e52a7c7e82186ce0ffb9b6f90d743.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/UcW6esaIauAt?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19752",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/352ec6644247a3fb28cd1f9199f991f4.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/5cKZUd8iJsPT?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/wi2J6htGB28e?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
