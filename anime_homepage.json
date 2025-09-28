@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Kaiju No. 8 Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/kaiju-no-8-season-2-19792",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/6461c9a2f865136afa30424ea61586be.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "One Piece",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Dan Da Dan Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/dan-da-dan-season-2-19793",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/33043b5bb1314a46d20f814dbe70f123.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/A6nDFiwRxYEx?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19775",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ff626b07a13f465b0974dc05f628e7a.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/94aSE8MdnRD1?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19785",
@@ -109,18 +121,6 @@
       "episode_id": "19788",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e9109398449cbeab3228d6ea05c5b1d.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/EHI8RgsBqNrc?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19909",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/UXTSAhqTfZrL?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19746",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4623b9c59ef7376b07e7ab2217df9efe.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/SfRdJBlSEmkr?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
