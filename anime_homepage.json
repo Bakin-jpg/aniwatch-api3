@@ -7,15 +7,15 @@
       "stream_url": null
     },
     {
-      "title": "Dr. Stone: Science Future Part 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/dr-stone-science-future-part-2-19784",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/03d6a1cd6d2d48fc348f9cfb4dabc2ec.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Dress-Up Darling Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/my-dress-up-darling-season-2-19794",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/efe80a55370f96edc544fb3d16c4b16f.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Dr. Stone: Science Future Part 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/dr-stone-science-future-part-2-19784",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/03d6a1cd6d2d48fc348f9cfb4dabc2ec.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19509",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/890b72a89c29f9f02ffe82bdbf1f8298.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/1phg6ezl7J9r?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19015",
@@ -115,12 +121,6 @@
       "episode_id": "19575",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc237f80ce02963acf93eb8797e12f9f.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/gkt2GOY18XM5?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19825",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d9f0ae9f25f1229dd87d3a2f418e339.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/0xAs2r7MEXLw?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
