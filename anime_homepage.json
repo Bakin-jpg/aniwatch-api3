@@ -52,6 +52,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "19496",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edeedc7f29fc7c5704111ccba4261bee.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/PQorGVgIAdP0?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19816",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c33e91791632c269f7c52c4e73ff6f1a.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/rfhBh9jW84ra?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19698",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/390172b777f9b391b2f8bad08eed508a.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/TSLtLELwgvI3?k=1&autoPlay=1&oa=0&asi=1"
@@ -102,25 +114,13 @@
       "title": "",
       "episode_id": "19908",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d771473a4b74662f3a969a33d0e7951e.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/g2vod4eGVU1P?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/mIp6ANHvmbMt?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "19727",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/jAN2dbBPqjev?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19817",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/190bbea727e92563d00b7ca6d7ed44fc.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/nowqsnGRmY5a?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19811",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cda2c84e268ea0ccad62300808dfaf5e.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ha1vRHiFraUQ?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
