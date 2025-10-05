@@ -52,6 +52,24 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "19509",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/890b72a89c29f9f02ffe82bdbf1f8298.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/TqUff9AcEl0G?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19884",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pNNkastAuTOR?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19810",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kQibE85O52on?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19914",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f5f2d39e92ac10eb0e809e39bd430aa.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/FUoUAUuZFaXb?k=1&autoPlay=1&oa=0&asi=1"
@@ -72,7 +90,7 @@
       "title": "",
       "episode_id": "19892",
       "image_url": "https://cdn.myanimelist.net/images/anime/1100/152037l.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/mpCPOGT4BuoP?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/2FW525elsLOb?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -103,24 +121,6 @@
       "episode_id": "19902",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22867d66fcdc249a69bd8f669a83707a.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/74AE4ljoweex?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19931",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162bbe5c3e6529b2449e735ae48c270e.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/WZjLbuzrNpL5?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19909",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/S9wvv5l4DBjs?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19907",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/defcbdf882b0a217002e1e4c2eae6be6.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/vezdLFF8NVg8?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
