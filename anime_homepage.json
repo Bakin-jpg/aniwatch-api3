@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "Hero Without a Class: Who Even Needs Skills?!",
-      "series_watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
       "series_watch_url": "https://aniwatchtv.to/watch/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-19908",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7bbb2c13ec5bb4d3ee6f585abc6def76.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "series_watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19908",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d771473a4b74662f3a969a33d0e7951e.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/3yvaur4nYmKT?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19727",
@@ -115,12 +121,6 @@
       "episode_id": "19905",
       "image_url": "https://cdn.myanimelist.net/images/anime/1294/151734l.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/q6ShbU8nElcs?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19923",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd6d01f1b67067e85271fdf78b690c2f.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/WOTzAULkQrli?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
