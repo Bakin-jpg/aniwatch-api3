@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Spy x Family Season 3",
+      "series_watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "series_watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a0531f1ffd9675fd0881a46994cc879f.jpg",
@@ -25,12 +31,6 @@
       "stream_url": null
     },
     {
-      "title": "Spy x Family Season 3",
-      "series_watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "series_watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19931",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162bbe5c3e6529b2449e735ae48c270e.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/LSypLy6tsngT?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19909",
@@ -115,12 +121,6 @@
       "episode_id": "19295",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/OXy5DchgZCpq?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19534",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/193cb452f35e1f25f408d704d055006e.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/FJqw6HiWdF8I?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
