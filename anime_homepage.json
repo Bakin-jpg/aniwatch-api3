@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "series_watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "series_watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "Hero Without a Class: Who Even Needs Skills?!",
-      "series_watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Dress-Up Darling Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/my-dress-up-darling-season-2-19794",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/efe80a55370f96edc544fb3d16c4b16f.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19912",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1721/151097l.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/uiTbAw5rRIar?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19915",
@@ -115,12 +121,6 @@
       "episode_id": "19901",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c514b6042ba1d9092b292ea84be8ae23.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/dMEKGwltLue2?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19951",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34698a4f6129d788e087b6435c7cb35b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/M6EjOeJHRPsT?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
