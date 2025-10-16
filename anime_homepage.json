@@ -52,6 +52,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "19874",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/87hxza9RCUcM?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19871",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/PMTRbo1ekLZt?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19952",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/338524a0e758130baa705cc7ae1d6091.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/DvAIj3iZQcNX?k=1&autoPlay=1&oa=0&asi=1"
@@ -102,25 +114,13 @@
       "title": "",
       "episode_id": "19915",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e540925c474669bf2176db7124fa205.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/sbEYhwmXM1Ft?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/cXqMCEuBfTq3?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "19906",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/y4ZqSmiIZINU?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19887",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81c6934a8a2a942025682d55bac93f29.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/0Z2n7Ao8FkPw?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19881",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7345272ef9f0c66bd005f2087117fa48.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/WvEqO53a7Rk6?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
