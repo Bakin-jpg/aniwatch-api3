@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "The Banished Court Magician Aims to Become the Strongest",
+      "series_watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Spy x Family Season 3",
       "series_watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "The Banished Court Magician Aims to Become the Strongest",
-      "series_watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Dress-Up Darling Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/my-dress-up-darling-season-2-19794",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/efe80a55370f96edc544fb3d16c4b16f.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19902",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22867d66fcdc249a69bd8f669a83707a.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/DeNiOU5ozGL7?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "18416",
@@ -90,7 +96,7 @@
       "title": "",
       "episode_id": "19930",
       "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/iaWGc9FWGCSC?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/2UItxaOR2ref?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -102,25 +108,19 @@
       "title": "",
       "episode_id": "19816",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c33e91791632c269f7c52c4e73ff6f1a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/mDusUQYqi3rE?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/IHvMPEhWnlMB?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "19192",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2145d1be7ca04b3079c572e8500797d.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/KjdEHghGnTDR?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Z4H79OwPCUy6?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "19496",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edeedc7f29fc7c5704111ccba4261bee.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/DLVnTYz9pX8B?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19883",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/VRRC4SG6XVSv?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
