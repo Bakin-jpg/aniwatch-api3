@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Spy x Family Season 3",
       "series_watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
@@ -41,15 +47,27 @@
       "series_watch_url": "https://aniwatchtv.to/watch/my-dress-up-darling-season-2-19794",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/efe80a55370f96edc544fb3d16c4b16f.jpg",
       "stream_url": null
-    },
-    {
-      "title": "One Piece",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19943",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f26bf6c5f79a0f4860411e3bc9a75aa5.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/STtIsCl6aWdl?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19875",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76bf5d4a75c79a3b89c8c4c6e15f5a1f.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/dJhRCFRspqZr?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ecg21I8t8L0k?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19785",
@@ -103,24 +121,6 @@
       "episode_id": "18119",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/WxIlffzjANVE?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19917",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dd18f216d65eb1e768f07e3490d744.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/5Ux5XW9Z9coI?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/RHNZp3tyna7H?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19823",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fed3cbd63a45b416c3ff9acbda18c8b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/oAxJ7DjrZOFP?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
