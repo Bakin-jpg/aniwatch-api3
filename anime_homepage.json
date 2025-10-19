@@ -1,9 +1,27 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "My Hero Academia Final Season",
+      "series_watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a0531f1ffd9675fd0881a46994cc879f.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Spy x Family Season 3",
       "series_watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Banished Court Magician Aims to Become the Strongest",
+      "series_watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
       "stream_url": null
     },
     {
@@ -19,33 +37,15 @@
       "stream_url": null
     },
     {
-      "title": "My Hero Academia Final Season",
-      "series_watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a0531f1ffd9675fd0881a46994cc879f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Hero Without a Class: Who Even Needs Skills?!",
-      "series_watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Dress-Up Darling Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/my-dress-up-darling-season-2-19794",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/efe80a55370f96edc544fb3d16c4b16f.jpg",
       "stream_url": null
     },
     {
-      "title": "One Piece",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Banished Court Magician Aims to Become the Strongest",
-      "series_watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "series_watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
       "stream_url": null
     }
   ],
