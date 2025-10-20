@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+      "series_watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Spy x Family Season 3",
       "series_watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "My Status as an Assassin Obviously Exceeds the Hero's",
-      "series_watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Dress-Up Darling Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/my-dress-up-darling-season-2-19794",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/efe80a55370f96edc544fb3d16c4b16f.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19922",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01673a7d3c4080cb4773e105a1aaa215.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/DSyy6NdmPgd7?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19924",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2c591f2a9ca18b8738615bec4a0f879.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/A3zdxDkBYwsb?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19901",
@@ -108,19 +120,7 @@
       "title": "",
       "episode_id": "19875",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76bf5d4a75c79a3b89c8c4c6e15f5a1f.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ZNtQowfOnPMM?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/LTRZNOAweUKA?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19785",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/JgqAfsNh2AXc?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/3jrWaZa8K4Vh?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
