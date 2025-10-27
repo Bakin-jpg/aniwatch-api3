@@ -52,6 +52,12 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "18018",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23cc8e120b74d5fc55050b0e88f00758.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/0XJWPgvK5T8Y?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19937",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66419cdfa6be7e5253c4b0191747de7e.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/EMANdDMIXDYG?k=1&autoPlay=1&oa=0&asi=1"
@@ -60,13 +66,13 @@
       "title": "",
       "episode_id": "19810",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/IaALjiwYtC6L?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/UPTo8aOz4Ryc?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "19943",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f26bf6c5f79a0f4860411e3bc9a75aa5.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/mFl4TzkjTz9I?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/NHXRN6kFQAY1?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -114,13 +120,7 @@
       "title": "",
       "episode_id": "19911",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/769091e549c5d0db95b91dddd2ac9646.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/N2GbNV0MNu0O?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19900",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44bed9277aff0a605d380a3281e80611.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/IQgGGHeC0Lks?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/u6ORXxdOq2If?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
