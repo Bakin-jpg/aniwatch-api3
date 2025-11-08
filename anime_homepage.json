@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "My Hero Academia Final Season",
+      "series_watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
       "series_watch_url": "https://aniwatchtv.to/watch/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-19908",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/3ce22e8aac25f3359aad63dbe06ebe77.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "My Hero Academia Final Season",
-      "series_watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One-Punch Man Season 3",
       "series_watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19930",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/tU9WYVj9SaBn?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "18416",
@@ -115,12 +121,6 @@
       "episode_id": "19816",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c33e91791632c269f7c52c4e73ff6f1a.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/cHH3T1WHu5u4?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19920",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/567fb055ca20bb27ae8b59bda06ed3eb.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pPOenfOYY1A8?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
