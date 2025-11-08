@@ -52,6 +52,24 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "19907",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/defcbdf882b0a217002e1e4c2eae6be6.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/9AY2OdsZWF6K?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19921",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4df2e94f170a2ec11149f0ae16f3934.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/8sDfgF8nDBYp?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "323",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/poPWZTL9N7Zd?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19930",
       "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/tU9WYVj9SaBn?k=1&autoPlay=1&oa=0&asi=1"
@@ -103,24 +121,6 @@
       "episode_id": "18397",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Sb1CuHP62AhT?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19608",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/FGN4JkpNQEAS?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19600",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/qRNVEWCuEyJf?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19816",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c33e91791632c269f7c52c4e73ff6f1a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/cHH3T1WHu5u4?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
