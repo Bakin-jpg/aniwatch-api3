@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+      "series_watch_url": "https://aniwatchtv.to/watch/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-19908",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/3ce22e8aac25f3359aad63dbe06ebe77.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Hero Without a Class: Who Even Needs Skills?!",
       "series_watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
@@ -41,15 +47,15 @@
       "series_watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
       "stream_url": null
-    },
-    {
-      "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-      "series_watch_url": "https://aniwatchtv.to/watch/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-19908",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/3ce22e8aac25f3359aad63dbe06ebe77.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19908",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d771473a4b74662f3a969a33d0e7951e.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/zb7EPU8SODYl?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "18632",
@@ -115,12 +121,6 @@
       "episode_id": "19874",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/q5wHPyeR5ZLf?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19936",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f792e433225ac600c4e3d806bdc9f25.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/WkW3UUvapbub?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
