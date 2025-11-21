@@ -52,6 +52,24 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "19939",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb81c83739e51ee9a84f7076c965834c.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/EOim8Z5ezDzT?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19940",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/409fc4eb43acd3f509788680ea6a8912.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/07xQMweWCKhB?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19830",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c74d427ff0df122ded2ca9924e8305dc.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/bfLNAwlY0DoZ?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19977",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/9qV0UpdZdYpl?k=1&autoPlay=1&oa=0&asi=1"
@@ -103,24 +121,6 @@
       "episode_id": "19905",
       "image_url": "https://cdn.myanimelist.net/images/anime/1294/151734l.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/HlMMxBqfDnny?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19898",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/qmhQELZpb10G?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19923",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd6d01f1b67067e85271fdf78b690c2f.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/4Fea4ESD2xXN?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19918",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7875b4e4be9b36a0b02342b24b72da53.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/909vDDTpYaAp?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
