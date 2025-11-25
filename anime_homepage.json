@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ebfb13a2099d3029ecd3cbf381d675aa.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "series_watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ebfb13a2099d3029ecd3cbf381d675aa.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19928",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e05c4d1a105058516d1f96bc78a33d5.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/rcA1L2dtzafj?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19899",
@@ -108,19 +114,13 @@
       "title": "",
       "episode_id": "19901",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c514b6042ba1d9092b292ea84be8ae23.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/HXcM75z8Cvot?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/c5VFwxWYJ4rr?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "19890",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c3c1ffbc4da69ad24a1e3e5561197a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/cJXRXMs0UQvf?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19951",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34698a4f6129d788e087b6435c7cb35b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Rs7NX3rAa2JO?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/XjwqoFrlcxyE?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
