@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One-Punch Man Season 3",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "series_watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
@@ -41,20 +47,26 @@
       "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
-    },
-    {
-      "title": "One-Punch Man Season 3",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/qls5VqAZ348h?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/eFQz4EOHAyPY?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19888",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9620a43e65d3fb7bf941e890c58014be.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/irghnwNOGGqs?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/1578XQIxcU4Z?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -109,18 +121,6 @@
       "episode_id": "19608",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/nVCyaSfeDIDc?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/IaqgUkLh6RjC?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19509",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/890b72a89c29f9f02ffe82bdbf1f8298.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/fPGehA8pXQtm?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
