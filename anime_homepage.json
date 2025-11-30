@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One-Punch Man Season 3",
       "series_watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -41,15 +47,15 @@
       "series_watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/897effd8d1c3438cc0396f653dc118dc.jpg",
       "stream_url": null
-    },
-    {
-      "title": "One Piece",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kwUJlq7xg0bK?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19932",
@@ -115,12 +121,6 @@
       "episode_id": "19015",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/aamd76rluA4a?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19608",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/nVCyaSfeDIDc?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
