@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "A Gatherer's Adventure in Isekai",
+      "series_watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One-Punch Man Season 3",
       "series_watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "A Gatherer's Adventure in Isekai",
-      "series_watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "series_watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a95b402657d2c052ef51a04440af84c7.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19924",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2c591f2a9ca18b8738615bec4a0f879.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/LUCJ1d9QfOWs?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19901",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c514b6042ba1d9092b292ea84be8ae23.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/zZGPCJZd01ks?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19890",
@@ -72,7 +84,7 @@
       "title": "",
       "episode_id": "18402",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1abaa7f5d440c98591010827e2fe60b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Sy0FeyCnV5z7?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/p9PIjwmOpyUs?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -84,7 +96,7 @@
       "title": "",
       "episode_id": "19600",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/NLsb3fjighzE?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Nfgw1Po8fRno?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -109,18 +121,6 @@
       "episode_id": "19875",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76bf5d4a75c79a3b89c8c4c6e15f5a1f.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/EFEuUhx5ELt7?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/v9nW1qvD4gge?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/NEhgY6WyxBf2?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
