@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/897effd8d1c3438cc0396f653dc118dc.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Gatherer's Adventure in Isekai",
       "series_watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
@@ -41,15 +47,15 @@
       "series_watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/dabd71c694f52722fd0bce176c4eff64.jpg",
       "stream_url": null
-    },
-    {
-      "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/897effd8d1c3438cc0396f653dc118dc.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19928",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e05c4d1a105058516d1f96bc78a33d5.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/se6C01YAFib2?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19899",
@@ -115,12 +121,6 @@
       "episode_id": "19600",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pUz8qlLB6o5s?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "18573",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/h1ZOjHZ4A36h?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
