@@ -52,6 +52,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "19929",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8387c83ff77997e7e0a97dde036a384b.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/DhKzXRFGrgaq?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19925",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deffd7486cbd190f596bc6cb4239bcc1.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/8BxHhofSHKFd?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19902",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22867d66fcdc249a69bd8f669a83707a.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pKA7zF5IS9cc?k=1&autoPlay=1&oa=0&asi=1"
@@ -102,25 +114,13 @@
       "title": "",
       "episode_id": "18397",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/n6S0QJCAc7tO?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/bTQTBtl9Rpdx?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "19295",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/dbmWEy4Hl75q?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19825",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d9f0ae9f25f1229dd87d3a2f418e339.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/7cvZ8ayV4vY3?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19844",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21e9cf902763ae6cbb6c3d4a491f4e7.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/MsUc0Fghv4hU?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/VA965cLvePbX?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
