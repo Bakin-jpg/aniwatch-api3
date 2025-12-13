@@ -52,6 +52,24 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "18643",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7eae90b00f92055c4cb250605b10879.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/xF8I64JeWtID?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "17492",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76a4c54d2b7d76cc4aecd8151b977e25.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/4575j4FAUeT7?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "18018",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23cc8e120b74d5fc55050b0e88f00758.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/TGMMx5PEC4cW?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19930",
       "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/chw9MxJe5UsW?k=1&autoPlay=1&oa=0&asi=1"
@@ -103,24 +121,6 @@
       "episode_id": "19920",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/567fb055ca20bb27ae8b59bda06ed3eb.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/eznzp8wObpRh?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19927",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c47d9623085a6057088ccffdc6198492.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/REkzWQYx5tjY?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19769",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7353719ac2fd26e6af72fe773c37a06a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/BgancdXmkk7j?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19889",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d01c61cb8fe3bb17d98201cb8f470338.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/O8960urn3k8r?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
