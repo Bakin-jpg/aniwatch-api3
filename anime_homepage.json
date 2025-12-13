@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "My Hero Academia Final Season",
+      "series_watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/897effd8d1c3438cc0396f653dc118dc.jpg",
@@ -25,12 +31,6 @@
       "stream_url": null
     },
     {
-      "title": "My Hero Academia Final Season",
-      "series_watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19930",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/chw9MxJe5UsW?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19885",
@@ -115,12 +121,6 @@
       "episode_id": "19889",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d01c61cb8fe3bb17d98201cb8f470338.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/O8960urn3k8r?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19779",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5e326f8234a54e407d7e3c86f9d68e2.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/9cBDWtbqD811?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
