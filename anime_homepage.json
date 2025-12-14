@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One-Punch Man Season 3",
       "series_watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -41,15 +47,15 @@
       "series_watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
       "stream_url": null
-    },
-    {
-      "title": "One Piece",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/5I8BiqON0eeN?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19932",
@@ -115,12 +121,6 @@
       "episode_id": "19935",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/KdAntGlwv0TQ?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20061",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e01eab61e78b1a0c02c3e5118da82c09.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/8sgAvDw3gam8?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
