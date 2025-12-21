@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One-Punch Man Season 3",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One Piece",
       "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "One-Punch Man Season 3",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
-      "stream_url": null
-    },
-    {
       "title": "A Wild Last Boss Appeared!",
       "series_watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/dabd71c694f52722fd0bce176c4eff64.jpg",
@@ -50,6 +50,30 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/hnBfRHEeSMeU?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19875",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76bf5d4a75c79a3b89c8c4c6e15f5a1f.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pu2r40YptLOr?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19943",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f26bf6c5f79a0f4860411e3bc9a75aa5.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/sHD6NIaToFa6?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19896",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffb7ca502ab7d2e7d47e45c710f6de37.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/MWPeANqhvCJp?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "100",
@@ -97,30 +121,6 @@
       "episode_id": "19015",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/qwjV4aMb9uNe?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19609",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56e86bcb87b3de63006fedd3ca3ba93b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kXKdpjMdwWf7?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19917",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dd18f216d65eb1e768f07e3490d744.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/2YyQrm8eQG1R?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20073",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5427f29e34a5be4957f99e432252d63a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Ny3ncSpCsVAH?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19810",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/dzw8DNAZliV3?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
