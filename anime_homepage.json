@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jack-of-All-Trades, Party of None",
+      "series_watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Kunon the Sorcerer Can See",
       "series_watch_url": "https://aniwatchtv.to/watch/kunon-the-sorcerer-can-see-20293",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ecf05e26202111fa86fefcd7dc71a19d.jpg",
@@ -16,12 +22,6 @@
       "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
       "series_watch_url": "https://aniwatchtv.to/watch/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power-20309",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/adbc83ab359271f69f9c6b73eb116dd6.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jack-of-All-Trades, Party of None",
-      "series_watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20281",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf62138b28c3e660bf56c60115894a74.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/uWgY1MfeQAPk?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/D8y4WrHS9d7s?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20029",
@@ -109,18 +121,6 @@
       "episode_id": "19830",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c74d427ff0df122ded2ca9924e8305dc.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/84iaPOmAiCdI?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19837",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd1bfffb385fedfb5c3eb9b4dbfde7e6.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kcXW6E8hYItN?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19882",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/591ee825ee4c1fd6c9cdaf98f8c9b852.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/otwORIu0m11q?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
