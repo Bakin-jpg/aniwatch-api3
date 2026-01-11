@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Kunon the Sorcerer Can See",
+      "series_watch_url": "https://aniwatchtv.to/watch/kunon-the-sorcerer-can-see-20293",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ecf05e26202111fa86fefcd7dc71a19d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Jujutsu Kaisen: The Culling Game Part 1",
       "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
@@ -10,12 +16,6 @@
       "title": "Jack-of-All-Trades, Party of None",
       "series_watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kunon the Sorcerer Can See",
-      "series_watch_url": "https://aniwatchtv.to/watch/kunon-the-sorcerer-can-see-20293",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ecf05e26202111fa86fefcd7dc71a19d.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20293",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09a1343f159cd056e35ce68dbb12ede.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/eecqG1vAKMlb?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20289",
@@ -115,12 +121,6 @@
       "episode_id": "20061",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e01eab61e78b1a0c02c3e5118da82c09.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/6ntLJGdWMH5w?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "18632",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/47dy8ZCgVcev?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
