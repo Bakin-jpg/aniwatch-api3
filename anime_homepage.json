@@ -52,6 +52,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20313",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3a4b137378f3d8e6af118a4e36fe082.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ekxSi7kWhDFz?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20285",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9405357f244e97183f0aba8fc86a2f42.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/NgqvIL4Z7x2K?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20293",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09a1343f159cd056e35ce68dbb12ede.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/eecqG1vAKMlb?k=1&autoPlay=1&oa=0&asi=1"
@@ -102,25 +114,13 @@
       "title": "",
       "episode_id": "19935",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/IYAcSuAzMQjZ?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/gUJWvUb00JW7?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "19509",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/890b72a89c29f9f02ffe82bdbf1f8298.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kA78nD4anQC9?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19884",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/5DIiopZYz44m?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20061",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e01eab61e78b1a0c02c3e5118da82c09.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/6ntLJGdWMH5w?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
