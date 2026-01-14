@@ -52,6 +52,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20353",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8339acdf333fbe06f317a6c5cb0a748d.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/D3BlsqSjoNBL?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20225",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d9d94b1b81b27beaa317c3689825bd2.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/qek4DODfDvDh?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20281",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf62138b28c3e660bf56c60115894a74.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/AQFdqSEx3CON?k=1&autoPlay=1&oa=0&asi=1"
@@ -96,7 +108,7 @@
       "title": "",
       "episode_id": "19872",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/SvNWJTKeqPgj?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/gQ9aGUUdrJ2r?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -109,18 +121,6 @@
       "episode_id": "20033",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82f226ad3943dd89fb491ff1fb053022.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/s74vFW0Gk8qO?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20437",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c7c45a1dbe2d533079b3677d4c4c960.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/bGEuJ2HvFwPG?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19798",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad7c2a5dd8fd311eb73c390bfdc89c33.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/mxycGA89uLHr?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
