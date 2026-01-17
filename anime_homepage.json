@@ -52,6 +52,12 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20189",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09863939d7b0375acc772d55e4d6ce8b.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/qNZaAZgBoxim?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19883",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/u3OFv6lqMx6e?k=1&autoPlay=1&oa=0&asi=1"
@@ -90,7 +96,7 @@
       "title": "",
       "episode_id": "20409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3cd9af95553a60cca782566d80ea31b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/hIVdq0X4zrdd?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/yvHwOLILUja0?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,12 +121,6 @@
       "episode_id": "17492",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76a4c54d2b7d76cc4aecd8151b977e25.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/cayjcMFEz9bx?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "18643",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7eae90b00f92055c4cb250605b10879.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kxglCN8ubhzE?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
