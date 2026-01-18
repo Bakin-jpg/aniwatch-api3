@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "series_watch_url": "https://aniwatchtv.to/watch/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power-20309",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/adbc83ab359271f69f9c6b73eb116dd6.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Kunon the Sorcerer Can See",
       "series_watch_url": "https://aniwatchtv.to/watch/kunon-the-sorcerer-can-see-20293",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ecf05e26202111fa86fefcd7dc71a19d.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
-      "series_watch_url": "https://aniwatchtv.to/watch/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power-20309",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/adbc83ab359271f69f9c6b73eb116dd6.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20229",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20a871ab16d79cac884dc827883938d9.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/odtsWWeogGKR?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20309",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e161cdd3ca26636b67f01baf62385623.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/rFnbypGlYA3f?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20313",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3a4b137378f3d8e6af118a4e36fe082.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/0nGYNizkHFZE?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20293",
@@ -103,24 +121,6 @@
       "episode_id": "19884",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/oUokuYE7dz2m?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19509",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/890b72a89c29f9f02ffe82bdbf1f8298.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/wKyVA3d5J7hr?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20205",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/774f650e966401f18cb897dd5a13b6a8.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/mNi0WDDVdACQ?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19892",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1100/152037l.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/2mROT6lUE7Dt?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
