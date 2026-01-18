@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Hell's Paradise Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
       "series_watch_url": "https://aniwatchtv.to/watch/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power-20309",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/adbc83ab359271f69f9c6b73eb116dd6.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "Hell's Paradise Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One-Punch Man Season 3",
       "series_watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20349",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48402ad1a3c9705afba26227a3244704.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/eYQ1GzF6vgzx?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20405",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edb439410a78d22ec940f8a938e144f5.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/tFxVein9no4P?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20229",
@@ -66,7 +78,7 @@
       "title": "",
       "episode_id": "20313",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3a4b137378f3d8e6af118a4e36fe082.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/0nGYNizkHFZE?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -109,18 +121,6 @@
       "episode_id": "19935",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ALaxCdFTGDjI?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20061",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e01eab61e78b1a0c02c3e5118da82c09.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/PXqEtVfAO4Eo?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19884",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/oUokuYE7dz2m?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
