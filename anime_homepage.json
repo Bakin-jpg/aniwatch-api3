@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "Fate/strange Fake",
-      "series_watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
       "series_watch_url": "https://aniwatchtv.to/watch/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-20269",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/e7777f65a6fca96dc2d7df5b818f3d69.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Fate/strange Fake",
+      "series_watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
       "stream_url": null
     },
     {
@@ -52,6 +52,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20253",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a84a0926a95efb5991b1cdc92af53db0.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Q9Y2vpMtzT51?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20269",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d7e8f7a43f2c421de05a94c2098988c.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/jo55k8uMNfk4?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19872",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/uiXNudNkULCo?k=1&autoPlay=1&oa=0&asi=1"
@@ -84,7 +96,7 @@
       "title": "",
       "episode_id": "20321",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/lXic2UpzW53R?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/dlsbgklSmvFE?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -109,18 +121,6 @@
       "episode_id": "20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cac39dab61221a2ed90e377a6294bf2d.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/64WUWksBYi4k?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20221",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/950f2dfb3b0bf4b900666fa1beb0e1b0.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/7XIwfgtkGDMa?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20337",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d04d5fdecb5d05f9934b608d3300e41.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/7zDHRoQXw1yv?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
