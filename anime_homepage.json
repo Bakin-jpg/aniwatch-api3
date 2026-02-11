@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "Hell's Paradise Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
       "stream_url": null
     },
     {
-      "title": "Fate/strange Fake",
-      "series_watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
+      "title": "Hell's Paradise Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
       "stream_url": null
     },
     {
@@ -19,15 +19,15 @@
       "stream_url": null
     },
     {
-      "title": "Sentenced to Be a Hero",
-      "series_watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
+      "title": "Fate/strange Fake",
+      "series_watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
       "stream_url": null
     },
     {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
+      "title": "Sentenced to Be a Hero",
+      "series_watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
       "stream_url": null
     },
     {
@@ -52,6 +52,12 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20505",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1414c79ac066b32480b395b93c462fa9.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/SbkK26DWVmrP?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20213",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/261c1185744fb483b4653a3a7adab30a.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/XZvplzOpd55u?k=1&autoPlay=1&oa=0&asi=1"
@@ -60,7 +66,7 @@
       "title": "",
       "episode_id": "20249",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/9Vt6AVkJpOfK?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ylbs9gzowgqn?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,12 +121,6 @@
       "episode_id": "19844",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21e9cf902763ae6cbb6c3d4a491f4e7.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/KUHoSGOd4Ay1?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19940",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/409fc4eb43acd3f509788680ea6a8912.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/VTYBYNRNDNAZ?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
