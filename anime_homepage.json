@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Fate/strange Fake",
+      "series_watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Frieren: Beyond Journey's End Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Fate/strange Fake",
-      "series_watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19436",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/w1TOHenGDlW5?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19929",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8387c83ff77997e7e0a97dde036a384b.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/npYGePht5Vco?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20233",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e690c68a0292960cd664e30166645b54.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/L0ZOqFqNA7qC?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20377",
@@ -103,24 +121,6 @@
       "episode_id": "20485",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9afb71d86bb89baef6f7133a7e4ed85.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/UaFFF5Yj4eJE?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19608",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/FJ69BHweF4w4?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19883",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/yawUaVEuQWW9?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20417",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/WKbnGr6BLvZj?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
