@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "Dead Account",
-      "series_watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
-      "stream_url": null
-    },
-    {
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "series_watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Dead Account",
+      "series_watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
       "stream_url": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "title": "",
       "episode_id": "20341",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66c92afd71d6086232bc1690ac1f34b8.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/daac93ac42a9c98e16578a6439ae59e7.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Ygm5y2aQFG7l?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
@@ -108,7 +108,7 @@
       "title": "",
       "episode_id": "20536",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75df5e5fcc175968bd5e23a5574c5cf6.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/iwVHcYO6gpo6?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/uDJbyucauoWR?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -126,7 +126,7 @@
       "title": "",
       "episode_id": "20373",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5ccdf8513717ea0b6b3a4abd716c079.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/9E1ox5DH3PFR?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/YdoA1pL9VhBk?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
