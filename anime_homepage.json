@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jack-of-All-Trades, Party of None",
+      "series_watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
+      "stream_url": null
+    },
+    {
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "series_watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
@@ -43,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "Jack-of-All-Trades, Party of None",
-      "series_watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -56,6 +56,30 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20397",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dacda0503215fb489feb38d631a92946.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/gDqmy5ItWLGf?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20281",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf62138b28c3e660bf56c60115894a74.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/DoHjnhkAZHbC?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/4V8NKyGxyoHv?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20325",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/464f534b69c1af48c69c111ab3de093e.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/50dorNoN53Uy?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20253",
@@ -103,30 +127,6 @@
       "episode_id": "20297",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f05a21fb03d2b7b92a264fee0e1a2e1a.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/w5lrf2ZwkEIU?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20361",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ee47b00ebf3c43352943474ac969c37.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/qqTBFwTYLwTv?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20341",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/daac93ac42a9c98e16578a6439ae59e7.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/jzuHvgVp7mIC?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20221",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/950f2dfb3b0bf4b900666fa1beb0e1b0.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/6oHkorvfgsXI?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20536",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75df5e5fcc175968bd5e23a5574c5cf6.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/uDJbyucauoWR?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
