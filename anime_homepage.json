@@ -1,15 +1,27 @@
 {
   "spotlight": [
     {
-      "title": "Hell's Paradise Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
+      "title": "Dead Account",
+      "series_watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
       "stream_url": null
     },
     {
-      "title": "Fate/strange Fake",
-      "series_watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
+      "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+      "series_watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Fire Force Season 3 Part 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hell's Paradise Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
       "stream_url": null
     },
     {
@@ -37,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
-      "series_watch_url": "https://aniwatchtv.to/watch/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-20269",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/e7777f65a6fca96dc2d7df5b818f3d69.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +56,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20469",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0468a23f4c3232539577026bc48333d.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/wEFIrh3xznZl?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20249",
@@ -66,7 +78,7 @@
       "title": "",
       "episode_id": "20209",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0785b57727c52e0eb15928fff4a4f44.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pRdzVsyX20QD?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/epdVu90x8SNN?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -83,7 +95,7 @@
     {
       "title": "",
       "episode_id": "20341",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cac39dab61221a2ed90e377a6294bf2d.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66c92afd71d6086232bc1690ac1f34b8.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Ygm5y2aQFG7l?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
@@ -115,12 +127,6 @@
       "episode_id": "20373",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5ccdf8513717ea0b6b3a4abd716c079.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/9E1ox5DH3PFR?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20381",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0054bcd038276409991c3400784a05c.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/huWpshQyrgrn?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
