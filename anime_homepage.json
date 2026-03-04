@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20353",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8339acdf333fbe06f317a6c5cb0a748d.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/oiDVFxcnyzmV?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19904",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/818b8d0df6e81a1b7d8dc9abd2127608.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Uh79vC6idIE9?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20397",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dacda0503215fb489feb38d631a92946.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/gDqmy5ItWLGf?k=1&autoPlay=1&oa=0&asi=1"
@@ -102,7 +114,7 @@
       "title": "",
       "episode_id": "20469",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0468a23f4c3232539577026bc48333d.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/wEFIrh3xznZl?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/VlUIUWSEs5FN?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,18 +127,6 @@
       "episode_id": "20321",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/hYpUPYNS7HFv?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20209",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0785b57727c52e0eb15928fff4a4f44.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/epdVu90x8SNN?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20297",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f05a21fb03d2b7b92a264fee0e1a2e1a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/w5lrf2ZwkEIU?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
