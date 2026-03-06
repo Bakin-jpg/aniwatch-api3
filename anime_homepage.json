@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20265",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6f97c6bbdeda3a9f48bd0332409a525.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/JGTHSigKGwIt?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20305",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05303b6efa7abf17dc55d6c8226f54cd.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/BarYHaeQ9ZZi?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3cd9af95553a60cca782566d80ea31b.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/oQRit10qHYgV?k=1&autoPlay=1&oa=0&asi=1"
@@ -108,25 +120,13 @@
       "title": "",
       "episode_id": "20277",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a9e9b12ea3d11b462f5972b912b978f.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/A31aai1O5sRf?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/7O1AiKr0Gc8x?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "20245",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acf6bd4960be53d22f7caa3f6ea5e598.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/cz2ywxM1weZL?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20273",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12aba2abce2d9e37776c136522b8ca5b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/oLd1mBDl2t4d?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1c21d8b67b4a99bc693f26bf8fcd2e5.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/B4ouNNS954QS?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
