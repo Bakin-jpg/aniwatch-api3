@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "18416",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/8xFpZO2PeaoV?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "18119",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ES23VP2NVlau?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20369",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb483187b3b2ec503ee3aca06211d063.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/geAF2wjNJot7?k=1&autoPlay=1&oa=0&asi=1"
@@ -90,7 +102,7 @@
       "title": "",
       "episode_id": "20365",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a11a1142531eabaf47ae402f8574d4d.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Xr8d4TYkNCrW?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/DUAlcWMn90Sg?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,18 +127,6 @@
       "episode_id": "20241",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62828eeee0f13a7ac3f793cca68d78e.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/sxWeTNGv3ok1?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19892",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1100/152037l.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/VSpIzpDucSGm?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19893",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc4a5d9fd2ae80d993c141391e334476.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/YneVMK5hMYdx?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
