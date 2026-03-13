@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Sentenced to Be a Hero",
       "series_watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
       "stream_url": null
     },
     {
@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20161",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/053fcd7a316b27ba6e550054bb795a45.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/3q58l6eezhsV?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "18632",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/wvru3TkQv0eQ?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19192",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2145d1be7ca04b3079c572e8500797d.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/1S5PFA1b3V5I?k=1&autoPlay=1&oa=0&asi=1"
@@ -102,31 +114,19 @@
       "title": "",
       "episode_id": "20317",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4851fb89c0e43c896b30c6522a2acb27.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/5OwGOgVjpJqb?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/fjAYBW3ydWK9?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "20329",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c03c47e66f28fa67c6ff5849b73b86f7.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/M6IfUhLActNI?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/nTPBKna3pEv4?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "20345",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f77b5cca08d5e4cd224e1394517b4756.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/jTZZmjmxbk1z?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20385",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c464a5af29d7c23cee182abf1a775016.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/f7hDKlxGtDNn?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19874",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/31plKzBvb3Qj?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/QLvDIm6NPMjf?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
