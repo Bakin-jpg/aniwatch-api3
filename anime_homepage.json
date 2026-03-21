@@ -58,6 +58,24 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20357",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89830adf2d1cef4e8ca44242b6fbae70.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/EpE35qvKZXxT?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19892",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1100/152037l.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/BrxHHTnTmivP?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20241",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62828eeee0f13a7ac3f793cca68d78e.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/WjPmne9OUBYt?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "19436",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/QBBkK8ovWNT6?k=1&autoPlay=1&oa=0&asi=1"
@@ -108,25 +126,7 @@
       "title": "",
       "episode_id": "323",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/HXWpZKnecGmc?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20073",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5427f29e34a5be4957f99e432252d63a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/qFruYKD3ahW0?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20189",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09863939d7b0375acc772d55e4d6ce8b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/0LDWdIUoUn3o?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "18397",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/hwhc0KrkXEAl?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/NORCoY3MORp5?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
