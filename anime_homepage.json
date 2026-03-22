@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Hell's Paradise Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Jack-of-All-Trades, Party of None",
       "series_watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
@@ -22,12 +28,6 @@
       "title": "Fire Force Season 3 Part 2",
       "series_watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Hell's Paradise Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
       "stream_url": null
     },
     {
@@ -56,6 +56,36 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20217",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3550f62b58697ca8fbcb97f231789789.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/v1yD8PUEczfw?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20349",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48402ad1a3c9705afba26227a3244704.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ddP10IzYgrgg?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20405",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edb439410a78d22ec940f8a938e144f5.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/T7SAhHAJFrwZ?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20229",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20a871ab16d79cac884dc827883938d9.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/OojlSZm2OhCP?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20309",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e161cdd3ca26636b67f01baf62385623.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/83fTgXCUMCCZ?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20313",
@@ -97,36 +127,6 @@
       "episode_id": "20566",
       "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/0bK5Di8F2Vdk?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20365",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a11a1142531eabaf47ae402f8574d4d.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/FzdpkPWLuPoy?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/vv8ecTA4N138?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19884",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/lbUKD6rhXz8j?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20481",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6331247240cd11923f544d1d03d98e.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/r8qW3p9G4fCU?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19600",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/rxyhOLp7daNO?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
