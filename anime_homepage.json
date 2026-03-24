@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+      "series_watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Hell's Paradise Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
-      "series_watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Dead Account",
       "series_watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
@@ -56,6 +56,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20341",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/daac93ac42a9c98e16578a6439ae59e7.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/lQ4E5lPgdUlX?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20361",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ee47b00ebf3c43352943474ac969c37.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/6hbKzo52C9KD?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20257",
@@ -115,18 +127,6 @@
       "episode_id": "18573",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/EA3sX8qJk0A0?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20217",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3550f62b58697ca8fbcb97f231789789.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/XaWXQtnMfduR?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20349",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48402ad1a3c9705afba26227a3244704.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/8pECKxObqxyS?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
