@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "series_watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
@@ -47,12 +53,6 @@
       "series_watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
       "stream_url": null
-    },
-    {
-      "title": "One Piece",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
@@ -72,7 +72,7 @@
       "title": "",
       "episode_id": "20209",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0785b57727c52e0eb15928fff4a4f44.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Nsx6FstpdA7m?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/QgpdqKeVfd8C?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -84,13 +84,13 @@
       "title": "",
       "episode_id": "20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/daac93ac42a9c98e16578a6439ae59e7.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/lQ4E5lPgdUlX?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/iXpZ0zu6n4KA?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "20361",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ee47b00ebf3c43352943474ac969c37.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/6hbKzo52C9KD?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/EJA1OEPnLDql?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
