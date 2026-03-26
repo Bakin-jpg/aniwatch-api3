@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Sentenced to Be a Hero",
+      "series_watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Jack-of-All-Trades, Party of None",
       "series_watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
@@ -43,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "Sentenced to Be a Hero",
-      "series_watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Dead Account",
       "series_watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
@@ -56,6 +56,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "19874",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/mQCMpAYVE8fb?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19871",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/C5t3DTMqQL4q?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20385",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c464a5af29d7c23cee182abf1a775016.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/35bBPsaN2LxJ?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20013",
@@ -78,7 +96,7 @@
       "title": "",
       "episode_id": "20281",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf62138b28c3e660bf56c60115894a74.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/2x5Lp8KgRco7?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/a33xYfFE0tBr?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -109,24 +127,6 @@
       "episode_id": "20269",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d7e8f7a43f2c421de05a94c2098988c.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/SppVE9vwIXc9?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19872",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/maFaiCvXKNMw?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20249",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/JtRbtiAS7me5?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20321",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/TNkv7kClOKxD?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
