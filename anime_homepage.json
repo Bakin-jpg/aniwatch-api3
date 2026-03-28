@@ -1,21 +1,9 @@
 {
   "spotlight": [
     {
-      "title": "Frieren: Beyond Journey's End Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Sentenced to Be a Hero",
-      "series_watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
+      "title": "One Piece",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
     },
     {
@@ -25,15 +13,27 @@
       "stream_url": null
     },
     {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fire Force Season 3 Part 2",
       "series_watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
       "stream_url": null
     },
     {
-      "title": "One Piece",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "title": "Frieren: Beyond Journey's End Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Sentenced to Be a Hero",
+      "series_watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
       "stream_url": null
     },
     {
@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20237",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e2524aaef714b02864ae969f7db9952.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/4mDDxVYJRKyH?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19883",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/mAcJVeUDzRnD?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "323",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/IGUwrMYWyLgN?k=1&autoPlay=1&oa=0&asi=1"
@@ -72,7 +84,7 @@
       "title": "",
       "episode_id": "20189",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09863939d7b0375acc772d55e4d6ce8b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/UbbXmeAC7Aq0?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Q2VQTF81ZAmW?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,18 +127,6 @@
       "episode_id": "20417",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ObnTl1ggEdFK?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3cd9af95553a60cca782566d80ea31b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/zSfSgtIwlrDk?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20161",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/053fcd7a316b27ba6e550054bb795a45.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/M5SYISW4etMB?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
