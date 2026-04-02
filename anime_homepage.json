@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20680",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d507efb4b10d91d71a8b59ee2204bac.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/REz8BjvoaF3m?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20776",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fa1a42086dec77f2d7eab12738777d9.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kMt86pcv9Ixp?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20021",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a383354f8ef4ab0bb5ffcd37868daea.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/MlYemnYoB28P?k=1&autoPlay=1&oa=0&asi=1"
@@ -90,7 +102,7 @@
       "title": "",
       "episode_id": "20656",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a89ae9d453aea66e8c3956d521bc0f8.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/FKFSkymVN3gj?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/goA8LGDLnRHI?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,18 +127,6 @@
       "episode_id": "20740",
       "image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/b207dkhn65iB?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20213",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/261c1185744fb483b4653a3a7adab30a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/lcwLdJ68BXXU?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20013",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/hz77FzpFWFyw?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
