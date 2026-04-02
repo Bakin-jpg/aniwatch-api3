@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20716",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edc80eac64b3ce2a327a7ee415148f10.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/TpssoRUIIRfG?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20695",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1294165f22bc73337e11c3d9d090bf4.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/JoYcTLCYsyhj?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20680",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d507efb4b10d91d71a8b59ee2204bac.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/REz8BjvoaF3m?k=1&autoPlay=1&oa=0&asi=1"
@@ -66,7 +78,7 @@
       "title": "",
       "episode_id": "20776",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fa1a42086dec77f2d7eab12738777d9.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kMt86pcv9Ixp?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/uQ0Qi4We687q?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,18 +127,6 @@
       "episode_id": "19874",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/aXiocHehRuDx?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19871",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/foVokCyzkwLI?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20740",
-      "image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/b207dkhn65iB?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
