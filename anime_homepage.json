@@ -58,6 +58,12 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20740",
+      "image_url": "https://myanimelist.net/images/anime/1764/155312l.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/fQmlDZbZPydx?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20213",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/261c1185744fb483b4653a3a7adab30a.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/nF2jPa5dpX8X?k=1&autoPlay=1&oa=0&asi=1"
@@ -72,7 +78,7 @@
       "title": "",
       "episode_id": "20029",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7906239bceb0f39988edd1a8ac9926d9.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/5hW4rroHmgGm?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/GCMSbF5F9cwZ?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -90,7 +96,7 @@
       "title": "",
       "episode_id": "20683",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f543dc969d84b292ec3033bd6a4b46b.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/iVTUftPhVogL?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/rp5OqC5VSt9W?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -120,13 +126,7 @@
       "title": "",
       "episode_id": "20674",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9264646ad21283bdb9441a4f59f324d1.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/asbIvYLvRWDm?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20719",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a4eb91ae862b309d4ef7300a35ceae1.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/w4xpfM5eTAZd?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ObyRTtWbyonk?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
