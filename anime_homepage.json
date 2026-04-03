@@ -1,15 +1,21 @@
 {
   "spotlight": [
     {
-      "title": "Jack-of-All-Trades, Party of None",
-      "series_watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
-      "stream_url": null
-    },
-    {
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "series_watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Jack-of-All-Trades, Party of None",
+      "series_watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
       "stream_url": null
     },
     {
@@ -47,15 +53,15 @@
       "series_watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
       "stream_url": null
-    },
-    {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21301779f7930407fe77c5761bf3e69.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/koGwgABvbbPo?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20141",
@@ -96,7 +102,7 @@
       "title": "",
       "episode_id": "20021",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a383354f8ef4ab0bb5ffcd37868daea.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/MlYemnYoB28P?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/bzRSyPzy5RY7?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -108,7 +114,7 @@
       "title": "",
       "episode_id": "20457",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9781d4a77230e392c6140aaf206f2833.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/KYdQOc7D2UQL?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -121,12 +127,6 @@
       "episode_id": "20728",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cfad965339ae625800bcb4a1b049f4c.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/iEYiQiG4WKtr?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20656",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a89ae9d453aea66e8c3956d521bc0f8.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/goA8LGDLnRHI?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
