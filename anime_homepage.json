@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Fire Force Season 3 Part 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
+      "stream_url": null
+    },
+    {
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "series_watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
@@ -22,12 +28,6 @@
       "title": "Hell's Paradise Season 2",
       "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Fire Force Season 3 Part 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
       "stream_url": null
     },
     {
@@ -56,6 +56,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "20393",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3f9fa4dd0f42d6ef8ca55aaefe46fbd.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/UPAAdVhLhpqO?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20417",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/CLBsbj2Sk1xp?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "20731",
@@ -115,18 +127,6 @@
       "episode_id": "20716",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edc80eac64b3ce2a327a7ee415148f10.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/9s7YrFwPhy9c?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20695",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1294165f22bc73337e11c3d9d090bf4.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Eaarh86fqY7G?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20680",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d507efb4b10d91d71a8b59ee2204bac.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/IUcWkROH10Nv?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
