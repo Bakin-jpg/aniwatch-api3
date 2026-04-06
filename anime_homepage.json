@@ -1,9 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "One Piece",
-      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "title": "Hell's Paradise Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Fire Force Season 3 Part 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
       "stream_url": null
     },
     {
@@ -13,15 +19,15 @@
       "stream_url": null
     },
     {
-      "title": "Frieren: Beyond Journey's End Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
+      "title": "One Piece",
+      "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
     },
     {
-      "title": "Fire Force Season 3 Part 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
+      "title": "Frieren: Beyond Journey's End Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
       "stream_url": null
     },
     {
@@ -43,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "Hell's Paradise Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Sentenced to Be a Hero",
       "series_watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -58,9 +58,21 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20477",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60ca78348f1e9c675169ba9bed450ad5.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/CysoL1BYkJXV?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20141",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9229de1040061dbf7dae15ed3ffacd4c.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/7Oj1cCDqwvjM?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20193",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c115cae0fce14eb9481ca51a62dc6e.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/H76DZEuALjpu?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/sFUsRrZJFK7O?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -72,19 +84,19 @@
       "title": "",
       "episode_id": "19698",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/390172b777f9b391b2f8bad08eed508a.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Ow8VEjWncFqF?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/VH37wIdjzoG9?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "20803",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95510507ffff5b60ce932d43b12cfd4b.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02a1f7738606f5cf52e69bf35618dee7.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/MpUHkc1syvrg?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/BbXiH1Bhx2OI?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/K87IlJR7LfyX?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -102,7 +114,7 @@
       "title": "",
       "episode_id": "20719",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a4eb91ae862b309d4ef7300a35ceae1.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/q2f0V4LMcMur?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/xJTgNEHlSW1k?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,18 +127,6 @@
       "episode_id": "18119",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/3ngJAJur1rMX?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "18416",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/PSt876IPT2UQ?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20713",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2b9657978e872dbf913bf4fa4c82b93.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/VUxttLveLdYc?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
