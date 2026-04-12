@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Dead Account",
+      "series_watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Jujutsu Kaisen: The Culling Game Part 1",
       "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
@@ -46,12 +52,6 @@
       "title": "Fire Force Season 3 Part 2",
       "series_watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Dead Account",
-      "series_watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
       "stream_url": null
     }
   ],
@@ -126,7 +126,7 @@
       "title": "",
       "episode_id": "20647",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebdb234882ce664a2839cdd1a443da4d.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/wx31Dqe4ATOh?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/FFZfV7j15qhY?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
