@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20662",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fde25ec502bc136b0c32b71b712477f.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/ZYuR2HVghoIB?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20614",
+      "image_url": "https://myanimelist.net/images/anime/1230/155783l.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Vm4Dk6mDRgfI?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20584",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cdbc616efbd66640e6568a44e3b6c43.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/8LDggqmnVvWy?k=1&autoPlay=1&oa=0&asi=1"
@@ -115,18 +127,6 @@
       "episode_id": "20644",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c95597c373292ea9cad5d54bebd8b61.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/s4YjPfNB8pfS?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20241",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62828eeee0f13a7ac3f793cca68d78e.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/dvrch3jcTNip?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20704",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ed0ea979cc8d55dd8f219efefb1fd36.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/m7XOHalrp4tG?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
