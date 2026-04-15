@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "I Made Friends with the Second Prettiest Girl in My Class",
+      "series_watch_url": "https://aniwatchtv.to/watch/i-made-friends-with-the-second-prettiest-girl-in-my-class-20608",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/96fbb91aedcba46bba7f1f6a1edd3f09.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Witch Hat Atelier",
       "series_watch_url": "https://aniwatchtv.to/watch/witch-hat-atelier-20578",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b0cc356d2f45c82e5321139e98c2525b.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Hell's Paradise Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Jujutsu Kaisen: The Culling Game Part 1",
       "series_watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
@@ -58,9 +58,21 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20812",
+      "image_url": "https://myanimelist.net/images/anime/1648/156622l.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pZVaBD4BzP4M?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "19647",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/yPtne61W0FFU?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20737",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95ef99f736281f59e0b41c28af9dfcb9.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pDmVRokNCx2i?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/WPb5Cy2WL7dC?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -102,7 +114,7 @@
       "title": "",
       "episode_id": "20635",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44f49de2dcbd4fe3a5d402022abdc520.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/vYAzOJXKm4Me?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/Iy1M1UBQAbHg?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,18 +127,6 @@
       "episode_id": "20465",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2d6b7b769c5bf623e1976a63b0df500.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pWPYjiN1FtgA?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19843",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38398262d6f8cf0524ba2658b79a54d6.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kU9BRnmUgfJ2?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20021",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a383354f8ef4ab0bb5ffcd37868daea.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/gRtkTVw1Hy2k?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
