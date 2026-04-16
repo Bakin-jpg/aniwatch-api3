@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20794",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e527e9d64ceac717d08e7d6696826a32.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/M871uh76X4Am?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21301779f7930407fe77c5761bf3e69.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/FHgY76NK1JuR?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20013",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/w1OWTTUjueyj?k=1&autoPlay=1&oa=0&asi=1"
@@ -102,7 +114,7 @@
       "title": "",
       "episode_id": "20569",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4756e1a4862415f61694737ba1e9ad.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/3gIkOf5emGfj?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/gHbZZKL2x1pJ?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -115,18 +127,6 @@
       "episode_id": "19872",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/2KAMmtUmiBbb?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20575",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa6f8e5bbcd63c4317a17ca0b352e3e3.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/rNWFcBRVpce0?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20812",
-      "image_url": "https://myanimelist.net/images/anime/1648/156622l.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/IltrwDwjUl6u?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
