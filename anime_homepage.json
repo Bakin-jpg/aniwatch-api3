@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "Gals Can't Be Kind to Otaku!?",
-      "series_watch_url": "https://aniwatchtv.to/watch/gals-cant-be-kind-to-otaku-20638",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a7d85aded606ef6dbe893c761947545b.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Classroom of the Elite IV",
       "series_watch_url": "https://aniwatchtv.to/watch/classroom-of-the-elite-iv-20575",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/9271241a51b3799b268b7b67cc91aeb8.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Gals Can't Be Kind to Otaku!?",
+      "series_watch_url": "https://aniwatchtv.to/watch/gals-cant-be-kind-to-otaku-20638",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a7d85aded606ef6dbe893c761947545b.jpg",
       "stream_url": null
     },
     {
@@ -58,6 +58,18 @@
   "latest_episodes": [
     {
       "title": "",
+      "episode_id": "20013",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/w1OWTTUjueyj?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20761",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b92887f711d8bd04e9c3cb468a837c1b.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/gQvp8brcAVSx?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
       "episode_id": "20641",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2a976735b82779fcffa9ba90e8ee53f.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/8f12EkFz8RFy?k=1&autoPlay=1&oa=0&asi=1"
@@ -66,7 +78,7 @@
       "title": "",
       "episode_id": "20602",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6605aa3c5d55270893fcc6da46dd4f05.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/oDHlVkU6R0vb?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/eB2C5BzPoA9A?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -78,7 +90,7 @@
       "title": "",
       "episode_id": "20767",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1c85340278b50191e2a690364d4d8ad.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/IhBiUJ8c2sNe?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kAGQgynhpU4S?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -96,7 +108,7 @@
       "title": "",
       "episode_id": "20623",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e57ce54d698dbbed5c94eb3197f90e43.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/3cDBzDfx8S8L?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/7JhpfVeDPFMb?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
@@ -108,25 +120,13 @@
       "title": "",
       "episode_id": "20575",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa6f8e5bbcd63c4317a17ca0b352e3e3.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/vZbR2QjOYzgh?k=1&autoPlay=1&oa=0&asi=1"
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/rNWFcBRVpce0?k=1&autoPlay=1&oa=0&asi=1"
     },
     {
       "title": "",
       "episode_id": "20812",
       "image_url": "https://myanimelist.net/images/anime/1648/156622l.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/rJ6Q4PQPkOvx?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "19647",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/YhT8T0K0qS2M?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20737",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95ef99f736281f59e0b41c28af9dfcb9.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/kRYwi0wgt1GR?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
