@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Wistoria: Wand and Sword Season 2",
+      "series_watch_url": "https://aniwatchtv.to/watch/wistoria-wand-and-sword-season-2-20584",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/84f7f61fac2fa5ff6b8c1db754c41b25.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One Piece",
       "series_watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -47,15 +53,39 @@
       "series_watch_url": "https://aniwatchtv.to/watch/witch-hat-atelier-20578",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b0cc356d2f45c82e5321139e98c2525b.jpg",
       "stream_url": null
-    },
-    {
-      "title": "Wistoria: Wand and Sword Season 2",
-      "series_watch_url": "https://aniwatchtv.to/watch/wistoria-wand-and-sword-season-2-20584",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/84f7f61fac2fa5ff6b8c1db754c41b25.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "",
+      "episode_id": "18119",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/pYacfC0BFTmL?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "18416",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/6CVLNf6Cc0LN?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20614",
+      "image_url": "https://myanimelist.net/images/anime/1230/155783l.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/oC0M7YVNiwwy?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20566",
+      "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/opFqrVN7zMH7?k=1&autoPlay=1&oa=0&asi=1"
+    },
+    {
+      "title": "",
+      "episode_id": "20584",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cdbc616efbd66640e6568a44e3b6c43.jpg",
+      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/snXLgz7YLLVV?k=1&autoPlay=1&oa=0&asi=1"
+    },
     {
       "title": "",
       "episode_id": "19935",
@@ -97,36 +127,6 @@
       "episode_id": "20644",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c95597c373292ea9cad5d54bebd8b61.jpg",
       "stream_url": "https://megacloud.blog/embed-2/v3/e-1/LlXkcyLL6TCt?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20704",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ed0ea979cc8d55dd8f219efefb1fd36.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/4MynVW9fTBWo?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20241",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62828eeee0f13a7ac3f793cca68d78e.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/oKmxEOEA02oj?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20650",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ffc408c96a73fffbd62b792319a2c66.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/HZO7DIJpg3c9?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20668",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2b0de13cd886ccab66ee5dc62cd1c9e.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/jMIWEQId1VRU?k=1&autoPlay=1&oa=0&asi=1"
-    },
-    {
-      "title": "",
-      "episode_id": "20632",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4fa93108943f6f82dcccc4d8240aaed4.jpg",
-      "stream_url": "https://megacloud.blog/embed-2/v3/e-1/7hPeCiyLpBVg?k=1&autoPlay=1&oa=0&asi=1"
     }
   ]
 }
